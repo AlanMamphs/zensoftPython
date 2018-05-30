@@ -28,6 +28,7 @@ python3 bitbucket2.0.py
 ```
 
 Enter valid credentials.
+Enter your team name.
 Optionally enter repository.
 
 
